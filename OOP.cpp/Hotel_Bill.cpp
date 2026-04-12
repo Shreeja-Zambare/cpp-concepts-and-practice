@@ -1,6 +1,6 @@
-//Basic codes which conatains class, member fuctions and main function//
+//Hotel bill //
 #include <iostream> 
-
+#include <iomanip>
 using namespace std;
 // Definition of class HotelBill
 class HotelBill
@@ -86,3 +86,4 @@ bill.displayBill();
 // Display final bill
 return 0; // End of program
 }
+
