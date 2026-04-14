@@ -52,7 +52,7 @@ Patient p1;
 cout << "\n--- Default Constructor ---"; 
 p1.display(); 
 // Create object using parameterized constructor 
-Patient p2(101, "Rahul Patil", 3500.50, "15-02-2026"); 
+Patient p2(101, "XYZ", 3500.50, "15-02-2026"); 
 cout << "\n--- Parameterized Constructor ---"; 
 p2.display(); 
 // Create object using copy constructor 
